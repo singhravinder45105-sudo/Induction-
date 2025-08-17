@@ -21,3 +21,7 @@
 # 9.30 to 10.30 p2p lecture. 10.30 to 11.30 lecture by prof. jaswant singh. 1.30 to 4.00 lecture by Dr. Arvind Dhingra - Auditorium 
 # day 7
 # 9.30 to 10.30 lecture by Dr. Amit Kamra-Auditorium. 10.30 to 11.30 lecture by Dr. Parminder singh - Auditorium. 11.30 to 12.30 lecture by Dr. Randhir Singhon " Conduct of Examination" - auditorium. 1.30 to 2.30 BEEE  lecture by Prof. Mandeep Kaur (EE) in room no. F-107. 3.00 going to TCC sem hall for admit card formation 3.30 in TCC hall for PMS scholarship.
+# day 8
+# chemistry lecture in room no. 109 by prof. Rajvir kaur. P2P lecture in F-109.
+# day 9
+#
