@@ -24,4 +24,8 @@
 # day 8
 # chemistry lecture in room no. 109 by prof. Rajvir kaur. P2P lecture in F-109.
 # day 9
-#
+# 9.30 to 10.30 programming for problem solving p by Harminder kaur CSE in OS LAB CSE DEPT. 11.30 to 12.30 brake. 12.30 to 1.30 math I L M3 inF-108. 1.30 to 2.30 chemistry L Rajvir Kaur in F-108. professional English communication L by Nisha in F-108. Mentoring class & profesional development P.
+# day 10
+# 11.30 to 12.30 chemistry L by Rajvir Kaur in G10. 12.30 to 1.30 brake. 1.30 to 2.30 professional English communication L by Nisha in F-113. 2.30 to 4.30 BEEE lab by Mandeep Kaur EE in BEEE Lab.
+# day 11
+#  BEEE by Mandeep Kaur in F-108
